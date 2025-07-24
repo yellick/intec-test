@@ -11,7 +11,7 @@
 ## Проект
 
 Рабочая версия проекта доступна по адресу:  
-🔗 [https://schapi.ru](https://schapi.ru)
+🔗 <a href="https://schapi.ru" target="_blank" rel="noopener noreferrer">https://schapi.ru</a>
 
 *Технические детали:*
 * Домен проксируется через Nginx Proxy Manager
